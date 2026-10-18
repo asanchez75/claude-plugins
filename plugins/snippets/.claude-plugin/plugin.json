@@ -1,0 +1,10 @@
+{
+  "name": "snippets",
+  "version": "0.1.0",
+  "description": "Expand #hashtag snippets in the prompt, with # autocomplete",
+  "author": {
+    "name": "asanchez75"
+  },
+  "repository": "https://github.com/asanchez75/claude-plugins",
+  "license": "MIT"
+}

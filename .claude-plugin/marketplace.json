@@ -1,0 +1,8 @@
+{
+  "name": "asanchez75-claude-plugins",
+  "description": "Claude Code plugins and mods by asanchez75",
+  "owner": { "name": "asanchez75" },
+  "plugins": [
+    { "name": "snippets", "source": "./plugins/snippets", "description": "Expand #hashtag snippets in the prompt, with TAB autocomplete" }
+  ]
+}
