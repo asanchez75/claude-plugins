@@ -59,7 +59,7 @@ const SNIPPETS: Snippet[] = [
     name: "tldr",
     aliases: ["tldr"],
     description: "tl;dr",
-    content: "provide a TL;DR summary of your answer in plain text.",
+    content: "provide a TL;DR summary of your answer in plain text for a project manager.",
     },
   {
     name: "cognitive_bridge",
