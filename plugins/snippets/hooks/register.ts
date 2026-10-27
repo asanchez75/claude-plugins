@@ -17,7 +17,7 @@ const SNIPPETS: Snippet[] = [
     name: "uv",
     aliases: ["uv"],
     description: "It provides uv information",
-    content: "you could use uv with VIRTUAL_ENV=/home/$USER/.venvs/uness uv run --sync [SCRIPTNAME]",
+    content: "you could use uv with VIRTUAL_ENV=/home/$USER/.venvs/uness uv run --active [SCRIPTNAME]",
   },
   {
     name: "premortem",
