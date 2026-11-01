@@ -5,6 +5,7 @@ Claude Code plugins and mods by asanchez75, published as one marketplace: `asanc
 | Plugin | What it does |
 |---|---|
 | [snippets](plugins/snippets) | Expand `#hashtag` snippets in the prompt, with TAB autocomplete |
+| [playwright-visual-debug](plugins/playwright-visual-debug) | Skill: headed `playwright-cli` browser on a local or VNC display, with display auto-detection |
 
 ## Install
 

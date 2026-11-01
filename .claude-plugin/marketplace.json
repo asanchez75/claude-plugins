@@ -1,8 +1,19 @@
 {
   "name": "asanchez75-claude-plugins",
   "description": "Claude Code plugins and mods by asanchez75",
-  "owner": { "name": "asanchez75" },
+  "owner": {
+    "name": "asanchez75"
+  },
   "plugins": [
-    { "name": "snippets", "source": "./plugins/snippets", "description": "Expand #hashtag snippets in the prompt, with TAB autocomplete" }
+    {
+      "name": "snippets",
+      "source": "./plugins/snippets",
+      "description": "Expand #hashtag snippets in the prompt, with TAB autocomplete"
+    },
+    {
+      "name": "playwright-visual-debug",
+      "source": "./plugins/playwright-visual-debug",
+      "description": "Visual debugging with playwright-cli: headed bundled browser on a local or VNC display"
+    }
   ]
 }

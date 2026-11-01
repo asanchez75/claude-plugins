@@ -1,0 +1,10 @@
+{
+  "name": "playwright-visual-debug",
+  "version": "0.1.0",
+  "description": "Visual debugging with playwright-cli: finds a usable X display (local or VNC) and launches a headed bundled browser on it",
+  "author": {
+    "name": "asanchez75"
+  },
+  "repository": "https://github.com/asanchez75/claude-plugins",
+  "license": "MIT"
+}
