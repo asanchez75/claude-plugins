@@ -14,6 +14,11 @@
       "name": "playwright-visual-debug",
       "source": "./plugins/playwright-visual-debug",
       "description": "Visual debugging with playwright-cli: headed bundled browser on a local or VNC display"
+    },
+    {
+      "name": "virtuoso",
+      "source": "./plugins/virtuoso",
+      "description": "Skill: query and manage Virtuoso RDF stores (SPARQL, loading) on Docker or Kubernetes, safe for large repositories"
     }
   ]
 }

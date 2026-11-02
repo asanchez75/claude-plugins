@@ -6,6 +6,7 @@ Claude Code plugins and mods by asanchez75, published as one marketplace: `asanc
 |---|---|
 | [snippets](plugins/snippets) | Expand `#hashtag` snippets in the prompt, with TAB autocomplete |
 | [playwright-visual-debug](plugins/playwright-visual-debug) | Skill: headed `playwright-cli` browser on a local or VNC display, with display auto-detection |
+| [virtuoso](plugins/virtuoso) | Skill: query and manage Virtuoso RDF stores on Docker or Kubernetes, with no heavy counts on large repos |
 
 ## Install
 

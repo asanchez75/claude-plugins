@@ -1,0 +1,10 @@
+{
+  "name": "virtuoso",
+  "version": "0.1.0",
+  "description": "Query and manage a Virtuoso RDF triple store (SPARQL, data loading) in Docker or Kubernetes, with safe patterns for large repositories",
+  "author": {
+    "name": "asanchez75"
+  },
+  "repository": "https://github.com/asanchez75/claude-plugins",
+  "license": "MIT"
+}
