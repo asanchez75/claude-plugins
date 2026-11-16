@@ -19,6 +19,11 @@
       "name": "virtuoso",
       "source": "./plugins/virtuoso",
       "description": "Skill: query and manage Virtuoso RDF stores (SPARQL, loading) on Docker or Kubernetes, safe for large repositories"
+    },
+    {
+      "name": "translate-status",
+      "source": "./plugins/translate-status",
+      "description": "Cognitive French translation of every prompt, shown in a band above the prompt; /translate on|off|show"
     }
   ]
 }

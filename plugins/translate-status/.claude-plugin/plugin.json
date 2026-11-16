@@ -1,0 +1,11 @@
+{
+  "name": "translate-status",
+  "version": "0.1.0",
+  "description": "Cognitive French translation of every prompt, shown in a band above the prompt",
+  "author": {
+    "name": "asanchez75"
+  },
+  "repository": "https://github.com/asanchez75/claude-plugins",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
